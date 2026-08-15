@@ -29,7 +29,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ---
 
-## 🛡️ Ofensif Projects
+## 🔥 Ofensif Projects
 
 | # | Projects | Description | Tools | Status |
 |---|--------|-------------|--------------|--------|
@@ -38,7 +38,18 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | 03 | [Analyse Wireshark](./projects/03-analyse-t) | Analyse de trafic réseau | Wireshark, tcpdump | ✅ Terminé |
 | 04 | [IDS/IPS](./projects/04-ids-ips-) | Détection d'intrusions | Suricata, Snort | ✅ Terminé |
 
+---
 
+## 🛡️ Defensif Projects
+
+| # | Projects | Description | Tools | Status |
+|---|--------|-------------|--------------|--------|
+| 01 | [Lab Sécurisé](./projects/01-h) | Infrastructure de test sécurisée | VMware, pfSense, ELK | ✅ Terminé |
+| 02 | [Pare-feu Enterprise](./projects/02-firewall) | Framework gestion firewall | Python, iptables, pfSense, FortiGate | 🔥 **80% - Récent** |
+| 03 | [Analyse Wireshark](./projects/03-analyse-t) | Analyse de trafic réseau | Wireshark, tcpdump | ✅ Terminé |
+| 04 | [IDS/IPS](./projects/04-ids-ips-) | Détection d'intrusions | Suricata, Snort | ✅ Terminé |
+
+---
 
 
 
