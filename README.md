@@ -29,6 +29,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ---
 
+## 🛡️ Ofensif Projects
+
+| # | Projet | Description | Technologies | Status |
+|---|--------|-------------|--------------|--------|
+| 01 | [Lab Sécurisé](./projects/01-home-lab-setup/) | Infrastructure de test sécurisée | VMware, pfSense, ELK | ✅ Terminé |
+| 02 | [Pare-feu Enterprise](./projects/02-firewall-configuration/) | Framework gestion firewall | Python, iptables, pfSense, FortiGate | 🔥 **80% - Récent** |
+| 03 | [Analyse Wireshark](./projects/03-analyse-trafic-wireshark/) | Analyse de trafic réseau | Wireshark, tcpdump | ✅ Terminé |
+| 04 | [IDS/IPS](./projects/04-ids-ips-implementation/) | Détection d'intrusions | Suricata, Snort | ✅ Terminé |
+
 
 
 
