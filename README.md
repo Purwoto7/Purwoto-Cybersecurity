@@ -22,10 +22,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 # Projects
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Foundations-5DEFD0?style=for-the-badge&logo=bookstack&logoColor=black&labelColor=5DEFD0" alt="Foundations"/>
-  <img src="https://img.shields.io/badge/Beginner-2EA44F?style=for-the-badge&logo=leaflet&logoColor=white" alt="Beginner"/>
-  <img src="https://img.shields.io/badge/Intermediate-D4A017?style=for-the-badge&logo=target&logoColor=white" alt="Intermediate"/>
-  <img src="https://img.shields.io/badge/Advanced-C73E3A?style=for-the-badge&logo=shield&logoColor=white" alt="Advanced"/>
+  <img src="https://img.shields.io/badge/Fondasi-5DEFD0?style=for-the-badge&logo=bookstack&logoColor=black&labelColor=5DEFD0" alt="Fondasi"/>
+  <img src="https://img.shields.io/badge/Ofensif-E63946?style=for-the-badge&logo=flame&logoColor=white" alt="Ofensif"/>
+  <img src="https://img.shields.io/badge/Defensif-1D3557?style=for-the-badge&logo=shield&logoColor=white" alt="Defensif"/>
+  <img src="https://img.shields.io/badge/Inovatif-FF6B35?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Inovatif"/>
 </div>
 
 ---
